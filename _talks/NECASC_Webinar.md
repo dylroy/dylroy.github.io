@@ -6,6 +6,7 @@ permalink: /talks/NECASC_Webinar
 venue: "NE CASC Webinar Series"
 date: 2025-03-12
 location: "Amherst, MA - USA"
+excerpt: "A webinar discussing the critical role of sediment in maintaining Northeast salt marshes and the challenges posed by declining coastal sediment supply. Featuring speakers from UMass Amherst's EGCS department."
 ---
 
 [Watch the video here](https://www.youtube.com/watch?v=xv00rQ3Xzzc)

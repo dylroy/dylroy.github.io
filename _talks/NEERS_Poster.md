@@ -6,6 +6,7 @@ permalink: /talks/NEERS_Poster
 venue: "New England Estuarine Research Society, Spring 2025 Conference"
 date: 2025-04-25
 location: "Provincetown, MA - USA"
+excerpt: "A study examining how bluff erosion contributes to coastal sediment budgets in Massachusetts salt marsh ecosystems."
 ---
 Authors
 ======
