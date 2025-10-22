@@ -12,13 +12,13 @@ location: "Amherst, MA - USA"
 
 Speakers
 ======
-#### Dylan Roy-Leo
+## Dylan Roy-Leo
 Graduate student in EGCS at UMass Amherst
-#### Brian Yellen
+## Brian Yellen
 Massachusetts State Geologist and faculty member in EGCS at UMass Amherst
-#### Wenxiu Teng
+## Wenxiu Teng
 PhD student (now post-doc) in EGCS at UMass Amherst
-#### Jon Woodruff
+## Jon Woodruff
 NE CASC University Co-Director and faculty member in EGCS at UMass Amherst
 
 Description

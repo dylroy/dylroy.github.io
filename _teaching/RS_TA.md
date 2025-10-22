@@ -6,7 +6,6 @@ permalink: /teaching/RS_TA
 venue: "UMass Amherst, Dept. of Earth, Geographic, and Climate Sciences"
 date: "Fall 2024 & Fall 2025"
 location: "Amherst MA, USA"
-instructor: "Qian Yu"
 ---
 
 Description

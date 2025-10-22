@@ -9,9 +9,9 @@ location: "Provincetown, MA - USA"
 ---
 Authors
 ======
-#### Dylan Roy-Leo
-#### Qian Yu
-#### Brian Yellen
+## Dylan Roy-Leo
+## Qian Yu
+## Brian Yellen
 
 
 Abstract
