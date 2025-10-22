@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate TA"
 permalink: /teaching/RS_TA
 venue: "UMass Amherst, Dept. of Earth, Geographic, and Climate Sciences"
-date: "Fall 2024 & Fall 2025"
+date: 2025-09-01
 location: "Amherst MA, USA"
 ---
 
