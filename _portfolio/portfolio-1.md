@@ -1,5 +1,5 @@
 ---
-title: "Geospatial Data Science and Computing" #881c1c
+title: "Geospatial Data Science and Computing"
 excerpt: "This is a collection of work, knowledge, code, etc. that could potentially be turned into a course. Active work in progress.<br/><img src='/images/FourthCliffBluff.png'>"
 collection: portfolio
 published: true
@@ -12,16 +12,16 @@ published: true
 # Knowledge
 
 Notes regarding storm surge:
-[notes1](../../files/W5_Tues_Coastal.md)
+[notes1](../files/W5_Tues_Coastal.md)
 
 Notes regarding wave breaking:
-[notes2](../../files/W10_Thurs_Coastal.md)
+[notes2](../files/W10_Thurs_Coastal.md)
 
 # Code
 
 The following is R code for comparing ridge regression and lasso regression which are $$ \ell_2 $$ and $$ \ell_1 $$ penalized, respectively.
 
-~~~
+~~~ r
 library(readr)
 library(glmnet)
 
@@ -124,5 +124,5 @@ ols_mse.mean = mean(unlist(ols_mse))
 lasso_mse.mean = mean(unlist(lasso_mse))
 ridge_mse.mean = mean(unlist(ridge_mse))
 
-~~~{:.language-r}
+~~~
 
