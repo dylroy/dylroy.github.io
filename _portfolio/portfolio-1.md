@@ -19,7 +19,7 @@ Notes regarding wave breaking:
 
 # Code
 
-The following is R code for comparing ridge regression and lasso regression which are $$ \ell_2 $$ and $$ \ell_1 $$ penalized, respectively.
+The following is R code for comparing ridge regression and lasso regression which are penalized by the $$ \ell_2 $$ and $$ \ell_1 $$ norms of the $$\hat{\mathbf{\beta}}$$ coefficient vector, respectively.
 
 ~~~ r
 library(readr)
