@@ -21,4 +21,4 @@ Salt marsh ecosystems provide many valuable natural services to coastal communit
 
 Pictures
 ======
-![me](../images/CERF_2025_pic.jpg)!
+![me](../images/CERF_2025_pic.jpg)

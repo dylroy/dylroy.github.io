@@ -1,3 +1,7 @@
+---
+permalink: /w5_tues_coastal/
+---
+
 # Week 5 Tuesday Lecture - Coastal Processes
 
 Created: March 11, 2025 11:30 AM
